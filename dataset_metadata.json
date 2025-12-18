@@ -1,0 +1,9 @@
+{
+    "train_count": 409,
+    "test_count": 197,
+    "total_wav_files": 607,
+    "example_audio": "audios\\train\\audio_173.wav",
+    "notebook_name": "SHL_Grammar_Scoring_VinayDegala",
+    "train_rmse": 0.0004928607124536168,
+    "cv_rmse": 0.77965676256496
+}
