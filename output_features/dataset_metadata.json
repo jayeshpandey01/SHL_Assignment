@@ -1,0 +1,7 @@
+{
+  "final_train_rmse": 0.25598981961105166,
+  "final_train_pearson": 0.9845442885061102,
+  "model_path": "models\\rf_final_combined.joblib",
+  "scaler_path": "models\\final_feature_scaler.pkl",
+  "submission_path": "output_features\\submission.csv"
+}
